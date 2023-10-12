@@ -12,9 +12,9 @@ I'm a newly minted data analyst
 <div align="left">
   <h3>About me</h4>
   <p>
-    <li> 👨🏻‍🎓I don't stop learning</li></br>
-    <li>🚀Moving towards data-science and ML</li></br>
-    <li>💵Developing in the field of investment (qualified investor)</li>
+    <li> 👨🏻‍🎓 I don't stop learning</li></br>
+    <li>🚀 Moving towards data-science and ML</li></br>
+    <li>💵 Developing in the field of investment (qualified investor)</li>
   </p>
   <a href="#"><img width="40" alt="apacheairflow" src="./icon/apacheairflow-color.svg" /></a>
   <a href="#"><img width="40" alt="github" src="./icon/github-color.svg" /></a>
