@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello! I'm Sergey" src="./jb1sa5dxrror1j5prbjskhu8ciho.png" /></p>
+<p align="center"><img width="80%" alt="Hello! I'm Sergey" src="./jb1sa5dxrror1j5prbjskhu8ciho-2.png" /></p>
 
 <br />
 
