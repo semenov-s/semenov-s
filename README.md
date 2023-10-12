@@ -1,7 +1,8 @@
-<p align="center"><img width="30%" alt="Hello! I'm Sergey" src="./icon/jb1sa5dxrror1j5prbjskhu8ciho-2.png" /></p>
-<p align="center"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<p align="center"><a href="https://github.com/semenov-s"><img width="30%" alt="Hello! I'm Sergey" src="./icon/jb1sa5dxrror1j5prbjskhu8ciho-2.png" /></a></p>
+<p align="center">
+  <a href="https://t.me/sergey_a_semenov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <br />
-<img width="20" alt="MailBox" src="./icon/mail-box-email-post-delivery-envelope_108534.svg" />How to reach me: <a href="mailto:serjey.semenov@yandex.ru">@serjey.semenov</a>
+<a href="mailto:serjey.semenov@yandex.ru"><img width="20" alt="MailBox" src="./icon/mail-box-email-post-delivery-envelope_108534.svg" /></a>How to reach me: <a href="mailto:serjey.semenov@yandex.ru">@serjey.semenov</a>
 </p>
 <!-- <p> <h1>bsdfdsfdsf</h1>dsadsadas</p> -->
 
