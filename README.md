@@ -1,4 +1,8 @@
-<p align="center"><img width="30%" alt="Hello! I'm Sergey" src="./jb1sa5dxrror1j5prbjskhu8ciho-2.png" /></p>
+<p align="center"><img width="30%" alt="Hello! I'm Sergey" src="./icon/jb1sa5dxrror1j5prbjskhu8ciho-2.png" /></p>
+<p align="center"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<br />
+<img width="20" alt="MailBox" src="./icon/mail-box-email-post-delivery-envelope_108534.svg" />How to reach me: <a href="mailto:serjey.semenov@yandex.ru">@serjey.semenov</a>
+</p>
 <!-- <p> <h1>bsdfdsfdsf</h1>dsadsadas</p> -->
 
 
