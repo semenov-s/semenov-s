@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center"><img width="80%" alt="Hello! I'm Sergey" src="./jb1sa5dxrror1j5prbjskhu8ciho.png" /></p>
+
+<br />
 
 <!--
 **semenov-s/semenov-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
