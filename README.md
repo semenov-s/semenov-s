@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/semenov-s"><img width="30%" alt="Hello! I'm Sergey" src="./icon/jb1sa5dxrror1j5prbjskhu8ciho-2.png" /></a>
+  <a href="https://github.com/semenov-s"><img width="200px" alt="Hello! I'm Sergey" src="./icon/jb1sa5dxrror1j5prbjskhu8ciho-2.png" /></a>
 </p>
 <p align="center">
   <a href="https://t.me/sergey_a_semenov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
