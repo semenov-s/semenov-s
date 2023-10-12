@@ -17,7 +17,7 @@ I'm a newly minted data analyst
     <li>💵 Developing in the field of investment (qualified investor)</li>
   </p>
   <a href="#"><img width="40" alt="apacheairflow" src="./icon/apacheairflow-color.svg" /></a>
-  <a href="#"><img width="40" alt="github" src="./icon/github-color.svg" /></a>
+  <a href="#"><img width="40" alt="github" src="./icon/github.svg" /></a>
   <a href="#"><img width="40" alt="python" src="./icon/python-color.svg" /></a>
   <a href="#"><img width="40" alt="numpy" src="./icon/numpy-color.svg" /></a>
   <a href="#"><img width="40" alt="pandas" src="./icon/pandas-color.svg" /></a>
